@@ -1,0 +1,115 @@
+{
+  "uuid": "8068d241-e94a-3625-9ffd-d42bae009de4",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "eb8aeb9c-8e2b-4ca5-82da-3d208650be96",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 27,
+    "totalEggsCollected": 6,
+    "totalEggsHatched": 98,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 21,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 21,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 6,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "water": 6,
+      "flying": 2,
+      "dragon": 3,
+      "normal": 8,
+      "psychic": 2,
+      "electric": 4,
+      "poison": 1,
+      "ground": 1,
+      "rock": 1,
+      "fire": 1,
+      "dark": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:gimmighoul": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:poliwag": [
+        "female"
+      ],
+      "cobblemon:noibat": [
+        "male"
+      ],
+      "cobblemon:psyduck": [
+        "female"
+      ],
+      "cobblemon:magikarp": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:eevee": [
+        "female"
+      ],
+      "cobblemon:wynaut": [
+        "male"
+      ],
+      "cobblemon:shinx": [
+        "male"
+      ],
+      "cobblemon:nidorina": [
+        "female"
+      ],
+      "cobblemon:quaxly": [
+        "male",
+        "female"
+      ],
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:woobat": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:gible": [
+        "female"
+      ],
+      "cobblemon:bagon": [
+        "female"
+      ],
+      "cobblemon:elekid": [
+        "male"
+      ],
+      "cobblemon:rockruff": [
+        "male",
+        "midday-form"
+      ],
+      "cobblemon:squirtle": [
+        "male"
+      ],
+      "cobblemon:pawmi": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:torchic": [
+        "female"
+      ],
+      "cobblemon:maschiff": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:mabosstiff": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:torracat": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:quaxwell": [
+        "female"
+      ]
+    }
+  }
+}

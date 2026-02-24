@@ -1,0 +1,51 @@
+{
+  "uuid": "43185f3d-1048-392e-869f-5cfc42134d5f",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "59a9491d-2ac1-46ca-b740-ff097425ab59",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 5,
+    "totalEggsCollected": 1,
+    "totalEggsHatched": 2,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 16,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 10,
+    "totalPvNBattleVictoryCount": 6,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 1,
+      "grass": 1,
+      "poison": 1,
+      "bug": 3,
+      "flying": 3
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:happiny": 1,
+      "cobblemon:pawmi": 1,
+      "cobblemon:gimmighoul": 4
+    },
+    "aspectsCollected": {
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:oddish": [
+        "male"
+      ],
+      "cobblemon:wartortle": [
+        "male"
+      ],
+      "cobblemon:charmeleon": [
+        "male"
+      ],
+      "cobblemon:combee": [
+        "male"
+      ]
+    }
+  }
+}

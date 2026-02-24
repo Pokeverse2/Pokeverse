@@ -1,0 +1,71 @@
+{
+  "uuid": "685eb8d2-7828-3917-9f2d-902631b16c77",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "5f143e8d-47a9-4996-abb8-43a8f541115b",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 7,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 20,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 16,
+    "totalPvNBattleVictoryCount": 4,
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 1,
+      "flying": 1,
+      "grass": 1,
+      "dragon": 1,
+      "fighting": 1,
+      "ice": 3,
+      "water": 4
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:varoom": 1,
+      "cobblemon:blipbug": 1,
+      "cobblemon:yamper": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:wooloo": 2,
+      "cobblemon:minior": 2,
+      "cobblemon:elekid": 1,
+      "cobblemon:dewpider": 1,
+      "cobblemon:magikarp": 1,
+      "cobblemon:marill": 1,
+      "cobblemon:diglett": 1,
+      "cobblemon:chewtle": 1,
+      "cobblemon:snubbull": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:rufflet": [
+        "male"
+      ],
+      "cobblemon:applin": [
+        "female"
+      ],
+      "cobblemon:timburr": [
+        "male",
+        "tree-none"
+      ],
+      "cobblemon:combusken": [
+        "female"
+      ],
+      "cobblemon:spheal": [
+        "female",
+        "male"
+      ],
+      "cobblemon:magikarp": [
+        "shiny",
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ]
+    }
+  }
+}
